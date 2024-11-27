@@ -1,0 +1,81 @@
+RustyFlip Project Overview  
+
+RustyFlip is a blockchain-based gaming platform revolutionizing online gaming with Web3 integrations. Designed for a global audience, it now supports a broad spectrum of blockchains, tokens, and wallets, delivering seamless and secure gameplay experiences.  
+
+Core Features  
+
+1. Games  
+   - Customizable Coinflip:  
+     - Players can personalize their gaming experience with custom odds, wager limits, and private invite-only matches.  
+   - Jackpot with Tiers:  
+     - Beginner Room: Low deposit range for newcomers.  
+     - Intermediate Room: Moderate deposit range for casual players.  
+     - High-Roller Room: High deposit thresholds for competitive, experienced users.  
+   - Progressive Jackpot:  
+     - A growing jackpot pool fueled by player activity, dynamically increasing with every game played.  
+     - Real-time jackpot updates displayed for increased excitement.  
+
+2. Blockchain Integration  
+   RustyFlip operates on a wide range of blockchains, catering to a diverse user base:  
+   - EVM-Compatible Chains:  
+     - Ethereum  
+     - Binance Smart Chain (BNB)  
+     - Polygon  
+     - Optimism  
+     - Avalanche  
+     - Arbitrum  
+     - Fantom  
+     - Base  
+     - zkSync Era  
+     - Klaytn  
+   - Non-EVM Chains:  
+     - Bitcoin  
+     - Tron  
+     - Solana  
+     - Internet Computer  
+     - Cardano  
+
+3. Token Support  
+   RustyFlip supports a rich variety of cryptocurrencies for deposits, wagers, and staking, including:  
+   - ETH, BNB, BTC, USDT, USDC, TRX, ARB, XRP  
+   - MATIC, SHIB, DAI, AVAX, FTM, OP, ICP, SOL  
+   - KLAY, ADA, LINK, DYDX, JUP, WBTC, BUSD, and many more.  
+
+4. Wallet Integration  
+   To ensure secure and user-friendly access, RustyFlip integrates with the following wallets:  
+   - EVM-Compatible Wallets:  
+     - MetaMask  
+     - Trust Wallet  
+     - Coinbase Wallet  
+     - OKX Wallet  
+     - Binance Wallet  
+     - Coin98  
+     - SafePal  
+     - TokenPocket  
+     - MathWallet  
+   - Non-EVM Wallets:  
+     - Phantom Wallet (for Solana)  
+
+5. Staking Rewards  
+   - Users can stake supported cryptocurrencies to earn passive rewards in platform tokens or other incentives.  
+   - A dedicated staking dashboard provides real-time insights into earnings and staking analytics.  
+
+6. Technological Stack  
+   - Backend: Node.js for server-side operations.  
+   - Frontend: Next.js for responsive, SEO-friendly interfaces.  
+   - Database: MongoDB for efficient data storage and retrieval.  
+   - Smart Contracts: Solidity-based, ensuring transparency and fairness.  
+
+---
+
+ Key Benefits  
+
+- Global Reach: Multi-chain and multi-token support caters to users worldwide.  
+- Enhanced Engagement: Advanced gameplay features and staking rewards encourage long-term user retention.  
+- Seamless Integration: Wide wallet compatibility ensures smooth access for crypto enthusiasts.  
+- Transparent and Secure: Blockchain technology ensures a provably fair and secure gaming environment.  
+
+---
+
+ Vision  
+RustyFlip aims to lead the Web3 gaming revolution by combining traditional betting mechanics with blockchain innovations. With robust multi-chain support and advanced gameplay features, RustyFlip offers a truly global and inclusive gaming experience.  
